@@ -2,6 +2,7 @@
   "name": "kosmotechchallenge_avicens",
   "version": "0.1.0",
   "private": true,
+  "main": "page.tsx",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
