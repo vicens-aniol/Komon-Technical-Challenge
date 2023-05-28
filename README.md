@@ -1,6 +1,5 @@
 ## Project Preview
-
-![image](https://github.com/vicens-aniol/Komon-Technical-Challenge/assets/31472364/58cb6c1d-63e8-4fa9-92a3-cda6e29a27a1)
+![screencapture](https://github.com/vicens-aniol/Komon-Technical-Challenge/assets/31472364/6156f0c2-065d-42df-a933-eb7ee561c33c)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
